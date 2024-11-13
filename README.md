@@ -5,12 +5,12 @@ The development of a Hepatitis-C detection system using the C5.0 algorithm integ
 Hepatitis-C Detection Using C5.0 Algorithm with Chi-Square Feature Selection is a project focused on enhancing the early detection of Hepatitis-C by utilizing a powerful combination of machine learning techniques. The C5.0 algorithm, a decision tree-based model, is employed to classify patient data with high accuracy. By integrating Chi-Square feature selection, the project identifies the most significant features, improving model efficiency and interpretability. Traditional diagnostic methods often rely heavily on extensive tests and manual analysis, which can be time-consuming and costly. This project aims to streamline the detection process, assisting healthcare professionals in making early, reliable diagnoses with a focus on user-friendly and effective machine learning solutions.
 
 ## Features
-Utilizes the C5.0 algorithm for accurate classification of Hepatitis-C cases.
-Implements Chi-Square feature selection to identify the most relevant features, enhancing model efficiency.
-Reduces the complexity of the diagnostic process through data-driven insights.
-High scalability for handling large datasets, suitable for clinical applications.
-Low time complexity for rapid predictions, supporting real-time diagnostic needs.
-Designed for easy deployment and integration with healthcare systems.
+* Utilizes the C5.0 algorithm for accurate classification of Hepatitis-C cases.
+* Implements Chi-Square feature selection to identify the most relevant features, enhancing model efficiency.
+* Reduces the complexity of the diagnostic process through data-driven insights.
+* High scalability for handling large datasets, suitable for clinical applications.
+* Low time complexity for rapid predictions, supporting real-time diagnostic needs.
+* Designed for easy deployment and integration with healthcare systems.
 ## Requirements
 * Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
 * Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
